@@ -1,0 +1,5 @@
+@import url('$lib/styles/reset.css');
+@import url('$lib/styles/fonts.css');
+@import url('$lib/styles/colors.css');
+
+/* This is the file for the global styling that doesn't fit into the other 3 files */
