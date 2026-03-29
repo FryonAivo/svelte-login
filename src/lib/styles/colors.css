@@ -1,4 +1,6 @@
-body, html {
-    background-color: #252422;
-    color: #fffcf2;
+:root {
+
+    --color-bg-main: #0f0f0f;
+    --color-text-main: #fafffd;
+
 }
